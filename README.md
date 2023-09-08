@@ -1,18 +1,16 @@
 # Bem-vindo ao meu GitHub 👋
 
-Olá! Eu sou Vinicius Predebon, também conhecido como **kadioba** aqui no GitHub (e em diversos lobbys por ai). Sou um desenvolvedor web full-stack especializado no ecossistema JavaScript, mas aspirante em diversas linguagens de programação. Sou apaixonado por tecnologia, um entusiasta da programação e um eterno aprendiz.
+Olá! Eu sou Vinicius Predebon, também conhecido como **kadioba** aqui no GitHub (e em diversos servidores de jogos por ai). Sou um desenvolvedor web full-stack especializado no ecossistema JavaScript, mas aspirante em diversas linguagens de programação. Sou apaixonado por tecnologia, um entusiasta da programação e um eterno aprendiz.
 
 ## Habilidades e Experiência
 - Desenvolvimento Web Full-Stack
-- JavaScript (React, React Native, Node)
-- NestJs, TypeScript
-- Jest, Prisma
 - Padrões de Arquitetura de Software
 - Web Services
 - Participação em Hackathons
-- Experiência em Empreendedorismo
+- Clean Code
+- Metodologias Ageis
 
-💻 Principais tecnologias
+## 💻 Principais tecnologias
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadioba)
 
