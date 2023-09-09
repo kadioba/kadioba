@@ -12,8 +12,6 @@ Olá! Eu sou Vinicius Predebon, também conhecido como **kadioba** aqui no GitHu
 
 ## 💻 Principais tecnologias
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadioba)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -33,7 +31,9 @@ Olá! Eu sou Vinicius Predebon, também conhecido como **kadioba** aqui no GitHu
 ![WebPack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-
+## 🌱 Atualmente estou estudando
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## Redes Sociais e Contato
 - [LinkedIn](https://www.linkedin.com/in/vinicius-predebon/)
@@ -43,6 +43,12 @@ Olá! Eu sou Vinicius Predebon, também conhecido como **kadioba** aqui no GitHu
 Se você está em busca de um desenvolvedor dedicado a transformar ideias em realidade, estou pronto para colaborar! Vamos explorar oportunidades, trocar conhecimentos ou simplesmente bater um papo sobre as últimas tendências do mundo tech.
 
 Sinta-se à vontade para entrar em contato, enviar uma mensagem ou um e-mail. Vamos construir o futuro juntos! 🚀
+
+<div align="center">
+      <a href="https://github.com/VinicciusWirz">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadioba"/>
+      <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kadioba"/>
+</div>
 
 <!--
 **kadioba/kadioba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
