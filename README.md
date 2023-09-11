@@ -45,7 +45,7 @@ Se você está em busca de um desenvolvedor dedicado a transformar ideias em rea
 Sinta-se à vontade para entrar em contato, enviar uma mensagem ou um e-mail. Vamos construir o futuro juntos! 🚀
 
 <div align="center">
-      <a href="https://github.com/VinicciusWirz">
+      <a href="https://github.com/kadioba">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadioba"/>
       <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kadioba"/>
 </div>
